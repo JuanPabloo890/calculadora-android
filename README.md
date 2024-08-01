@@ -4,6 +4,7 @@
 
 ## Funcionamiento de la aplicacion
 
+Esta aplicacion nos permite realizar las operaciones basicas (suma, resta, multiplicacion y division) ademas de las 3 operaciones trigonometricas.
 
 <div align="center">
 
